@@ -1,4 +1,4 @@
-![logo](https://github.com/vinz/vinz/blob/main/vinayc_www.vinayc.me .jpeg)
+![logo](https://github.com/vinz/vinz/blob/main/vinayc_www.vinayc.me%20.jpeg)
 
 <h1 align="center">Hi 👋, I'm Vinay C</h1>
 <h3 align="center">A passionate Full-Stack developer and Development Architect from India</h3>
