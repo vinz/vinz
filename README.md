@@ -23,7 +23,7 @@ I'm a **Senior Software Engineer** with over **12 years** of experience in full-
 **Senior Software Engineer @ Microsoft** *(Dec 2024 - Present)*
 
 - Driving **Generative AI** efforts in reinventing Microsoft Power Pages
-- Leveraging **Azure OpenAI LLM** for building world-class Website Creator Tool
+- Leveraging **Azure OpenAI LLM** for building world-class Tools
 - Developing **Low-Code & No-Code** solutions for enterprise customers
 
 ## 💼 Professional Experience
